@@ -1,0 +1,116 @@
+body{
+    height: 100%;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a:active{
+    text-decoration: none;
+}
+
+
+nav.navbar-default{
+    background-color: #E6212A;
+    height: 50px;
+}
+nav.navbar-default a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 50px;
+
+}
+nav.navbar-default div.container-fluid{
+    margin: 0 auto;
+    width: 1200px;
+    height: 50px;
+}
+nav.navbar-default form.navbar-form{
+    height: 50px;
+}
+nav.navbar-default div.navbar-header{
+    margin-right: 30px;
+}
+nav.navbar-default div.topnav-new-menu{
+    float: left;
+}
+nav.navbar-default div.LandR{
+    float: right;
+    color: #ffffff;
+}
+
+div.content{
+    margin: 0 auto;
+    width:1200px;
+}
+table.table-striped {
+    width: 820px;
+    float: left;
+}
+table.table-striped thead{
+    background-color: #E6212A;
+
+}
+table.table-striped thead th{
+     color: #fff;
+
+}
+table.table-striped tbody tr{
+    color: #666;
+
+}
+table.table-striped tbody div.product-type{
+    padding-left: 50px;
+    color: #999;
+}
+table.table-striped tbody div.product-number{
+    color: #999;
+}
+
+
+ul.list-group{
+    width: 363px;
+    float: right;
+}
+ul.list-group li a img {
+    margin-left: -15px;
+}
+
+div.footer{
+    width: 100%;
+    height: 60px;
+    bottom: 0px;
+    left: 0px;
+    clear: both;
+    background: #FAFAFA;
+}
+div.footer div.ind-footer {
+    width: 1400px;
+    height: 60px;
+    margin: 0 auto;
+}
+div.footer div.ind-footer div.fl{
+    float: left;
+    color: #999999;
+}
+div.footer div.ind-footer div.fl p a{
+    color: #999999;
+}
+div.footer div.ind-footer div.fr{
+    float: right;
+    padding-top: 20px;
+    padding-right: 50px;
+}
+div.footer div.ind-footer div.fr em{
+    font-size: 25px;
+    color: #E74229;
+}
+
+
+
